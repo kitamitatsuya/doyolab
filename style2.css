@@ -8,7 +8,7 @@
     text-align: center;
     color:white;
     background-color:black;
-    background-position: center bottom;
+    background-position: center top;
     background-size: cover;
   }
 
@@ -29,8 +29,8 @@
     list-style: none;
     display: inline-block;
     margin: 0 20px;
-  
   }
+
 
 footer{
     width: 100%;
