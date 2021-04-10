@@ -80,16 +80,16 @@ section {
 
 #small {
 	background-color:#bbedce;
+  background-attachment: fixed;
+  background-position: center;
   width: 220px;
   height: 50px;
-  padding-top: ;
   border: 1px solid;
   border-bottom: transparent;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   margin-bottom: -1px;
   font-family: cursive;
-  position: relative;
   text-align: center;
 }
 
@@ -109,18 +109,7 @@ section {
 }
 
 
-#screen3 {
-  background: rgb(224, 224, 224);
-  background-attachment: fixed;
-  background-position: center center;
-  border: 1px solid;
-}
 
-#screen4 {
-  background: rgb(224, 224, 224);
-  background-attachment: fixed;
-  background-position: center center;
-  border: 1px solid;
 }
 
 @media only screen and (max-width: 500px) {
