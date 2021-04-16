@@ -93,6 +93,10 @@ section {
   text-align: center;
 }
 
+div{
+  
+
+}
 #big1 {
   background-color: white;
   background-size: cover;
@@ -104,6 +108,8 @@ section {
   border: 1px solid;
   font-family: sans-serif;
   font-size: 16px;
+  text-align: left;
+
 }
 
 #small2 {
