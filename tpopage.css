@@ -39,6 +39,12 @@ body {
 	font-size: 25px;
   word-wrap: break-word;
   font-family: serif;
+
+}
+
+/* 画面幅の50%の幅で画像を表示 */
+.image-vw {
+  width : 100vw ; 
 }
 
 dl{
