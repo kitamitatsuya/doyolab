@@ -5,6 +5,7 @@ head {
 	z-index: 1;
   
 }
+
 header {
   position: fixed;
   top: 0px;
@@ -14,10 +15,10 @@ header {
     background: rgb(27, 27, 27);
   background-attachment: fixed;
   background-position: center center;
+  text-align: center ;
   font-family:serif;
   color: white;
 }
-
 
 /* トップページの一覧に関するスタイル----------------------------------------------*/
 figure {
@@ -51,21 +52,5 @@ color: #393939;
   margin-bottom: 40px;
 background: #efefef;
 }
-h1{
-  text-indent: 0em;
-}
-h2{
-  margin-left: 2em;
-  margin-top: 2em;
-}
-h3{
-  margin-left: 3em;
-}
-p,div{
-  margin-left: 5em;
-}
-span.blackback{
-  text-indent: 4em;
-  background: #393939;
-  color: #efefef;
-}
+
+
