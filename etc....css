@@ -38,7 +38,6 @@ figure img {
   object-fit: cover; /* 画像のトリミング */
 }
 figcaption {
-
   font-size: 0.8em;        /* 文字サイズを80%に */
   text-align: center;      /* 中身をセンタリング */
   word-wrap: break-word;
