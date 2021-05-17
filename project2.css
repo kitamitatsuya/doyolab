@@ -11,11 +11,16 @@ body {
     background:white;
   background-attachment: fixed;
   background-position: center center;
-  color: black;
+  color:rgb(41, 41, 41);
     font-size: 25px;
   word-wrap: break-word;
   font-family:inherit
 }
+
+h2 {
+	color:black;
+}
+
 
 html, body {
     font-size: 16px;
@@ -30,3 +35,4 @@ html, body {
 .image-vw {
     width : 100vw ; 
   }
+
